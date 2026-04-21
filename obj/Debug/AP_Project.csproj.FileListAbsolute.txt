@@ -1,0 +1,58 @@
+C:\AP 4\AP_Project\bin\Debug\AP_Project.exe.config
+C:\AP 4\AP_Project\bin\Debug\AP_Project.exe
+C:\AP 4\AP_Project\bin\Debug\AP_Project.pdb
+C:\AP 4\AP_Project\obj\Debug\AP_Project.csproj.AssemblyReference.cache
+C:\AP 4\AP_Project\obj\Debug\AP_Project.MainForm.resources
+C:\AP 4\AP_Project\obj\Debug\AP_Project.LoginForm.resources
+C:\AP 4\AP_Project\obj\Debug\AP_Project.Properties.Resources.resources
+C:\AP 4\AP_Project\obj\Debug\AP_Project.csproj.GenerateResource.cache
+C:\AP 4\AP_Project\obj\Debug\AP_Project.csproj.CoreCompileInputs.cache
+C:\AP 4\AP_Project\obj\Debug\AP_Project.exe
+C:\AP 4\AP_Project\obj\Debug\AP_Project.pdb
+C:\AP 4\AP_Project\obj\Debug\AP_Project.exe.config
+C:\AP 4\AP_Project\obj\Debug\AP_Project.ManageStd.resources
+C:\AP 4\AP_Project\obj\Debug\AP_Project.AtendReports.resources
+C:\AP 4\AP_Project\obj\Debug\AP_Project.GenCode.resources
+C:\AP 4\AP_Project\obj\Debug\AP_Project.MarkAtend.resources
+C:\AP 4\AP_Project\bin\Debug\QRCoder.dll
+C:\AP 4\AP_Project\bin\Debug\QRCoder.xml
+C:\AP 4\AP_Project\obj\Debug\AP_Project.csproj.Up2Date
+C:\AP 4\AP_Project\bin\Debug\AForge.dll
+C:\AP 4\AP_Project\bin\Debug\AForge.Video.DirectShow.dll
+C:\AP 4\AP_Project\bin\Debug\AForge.Video.dll
+C:\AP 4\AP_Project\bin\Debug\zxing.dll
+C:\AP 4\AP_Project\bin\Debug\zxing.presentation.dll
+C:\AP 4\AP_Project\bin\Debug\AForge.xml
+C:\AP 4\AP_Project\bin\Debug\AForge.Video.xml
+C:\AP 4\AP_Project\bin\Debug\AForge.Video.DirectShow.xml
+C:\AP 4\AP_Project\bin\Debug\zxing.xml
+C:\AP 4\AP_Project\bin\Debug\zxing.presentation.xml
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\bin\Debug\AP_Project.exe.config
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\bin\Debug\AP_Project.exe
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\bin\Debug\AP_Project.pdb
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\bin\Debug\AForge.dll
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\bin\Debug\AForge.Video.dll
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\bin\Debug\QRCoder.dll
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\bin\Debug\zxing.dll
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\bin\Debug\zxing.presentation.dll
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\bin\Debug\AForge.xml
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\bin\Debug\AForge.Video.xml
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\bin\Debug\QRCoder.xml
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\bin\Debug\zxing.xml
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\bin\Debug\zxing.presentation.xml
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\obj\Debug\AP_Project.csproj.AssemblyReference.cache
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\obj\Debug\AP_Project.exe.config
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\obj\Debug\AP_Project.AtendReports.resources
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\obj\Debug\AP_Project.GenCode.resources
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\obj\Debug\AP_Project.MainForm.resources
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\obj\Debug\AP_Project.LoginForm.resources
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\obj\Debug\AP_Project.ManageStd.resources
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\obj\Debug\AP_Project.MarkAtend.resources
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\obj\Debug\AP_Project.Properties.Resources.resources
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\obj\Debug\AP_Project.csproj.GenerateResource.cache
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\obj\Debug\AP_Project.csproj.CoreCompileInputs.cache
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\obj\Debug\AP_Project.csproj.Up2Date
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\obj\Debug\AP_Project.exe
+C:\Users\Gadget Gaff\Documents\Sem 4\AP 4\AP_Project\obj\Debug\AP_Project.pdb
